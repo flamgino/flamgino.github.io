@@ -6,12 +6,12 @@
 <script>{;var defaultLang = "zh", langs = ["zh"];if (!/bot|spider|crawl|lighthouse/i.test(window.navigator.userAgent)) {;var firstVisitKey = 'rspress-visited', visited = localStorage.getItem(firstVisitKey);if (!visited) {;localStorage.setItem(firstVisitKey, '1');var targetLang = window.navigator.language.split('-')[0], { pathname, search } = window.location, pathSegments = pathname.split('/').filter(Boolean), currentLang = langs.includes(pathSegments[0]) ? pathSegments[0] : defaultLang;if (langs.includes(targetLang) && targetLang !== currentLang) {;var newPathSegments = pathSegments.slice();if (targetLang === defaultLang) {;newPathSegments.splice(0, 1);} else if (currentLang === defaultLang) {;newPathSegments.splice(0, 0, targetLang);} else {;newPathSegments[0] = targetLang;};;var newPathname = '/' + newPathSegments.join('/'), trailingSlash = newPathname !== '/' && pathname.endsWith('/') ? '/' : '';window.location['replace'](newPathname + trailingSlash + search);};};};}</script>
 <script>{;const saved = localStorage.getItem('rspress-theme-appearance');const preferDark = window.matchMedia('(prefers-color-scheme: dark)').matches;const defaultTheme = 'auto';const theme = saved === 'light' || saved === 'dark' || saved === 'auto' ? saved : defaultTheme;const isDark = theme === 'auto' ? preferDark : theme === 'dark';document.documentElement.classList.toggle('dark', isDark);document.documentElement.classList.toggle('rp-dark', isDark);document.documentElement.style.colorScheme = isDark ? 'dark' : 'light';}</script>
 <link href="/static/css/styles.8d4a450e35.css" rel="stylesheet">
-<link rel="preload" href="/static/js/async/route-2dac2b32865e.67ca112bec.js" as="script">
+<link rel="preload" href="/static/js/async/route-2dac2b32865e.4381dd24cc.js" as="script">
 <script defer src="/static/js/styles.d7d16976b5.js"></script>
 <script defer src="/static/js/lib-react.151e65a891.js"></script>
 <script defer src="/static/js/lib-router.4e05d3179b.js"></script>
-<script defer src="/static/js/j.8cd7eeadf2.js"></script>
-<script defer src="/static/js/index.89a7db9435.js"></script>
+<script defer src="/static/js/j.982ba09cbb.js"></script>
+<script defer src="/static/js/index.3bdd2f8489.js"></script>
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="generator" content="Rspress v2.0.23">
 <link rel="icon" href="/rspress-icon.png">
@@ -38,6 +38,13 @@
 </ul>
 <h3 class="rp-toc-include" id="替换练习"><a href="#替换练习" class="rp-header-anchor rp-link" aria-hidden="true">#</a>替换练习</h3>
 <p>给定资料提供的信息往往是具体而琐碎的，但答案要求概括并且有字数限制，这就要求用更加凝练的语言，把给定资料想表达的意思表达出来，这就是替换。</p>
+<ul>
+<li>春节、元宵节、端午、中秋、重阳等可以替换为“重要民俗节庆”</li>
+<li>窨井盖、电表箱、电线杆等可以替换为“市政设施”</li>
+<li>安全饮水配套工程、电信宽带替换为“基础设施建设”或者“基建”</li>
+<li>每天早上，摊贩们将小巷堵得严严实实，出行极不方便 -&gt; 影响交通|摊贩占道经营</li>
+<li>大清早就吵吵闹闹，觉也睡不好 -&gt; 影响居民休息</li>
+</ul>
 <h3 class="rp-toc-include" id="仿写练习"><a href="#仿写练习" class="rp-header-anchor rp-link" aria-hidden="true">#</a>仿写练习</h3>
 <h3 class="rp-toc-include" id="改写练习"><a href="#改写练习" class="rp-header-anchor rp-link" aria-hidden="true">#</a>改写练习</h3>
 <h2 class="rp-toc-include" id="归纳概括题的答题策略与巩固练习"><a href="#归纳概括题的答题策略与巩固练习" class="rp-header-anchor rp-link" aria-hidden="true">#</a>归纳概括题的答题策略与巩固练习</h2>
