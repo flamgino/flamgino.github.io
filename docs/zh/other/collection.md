@@ -4,7 +4,7 @@
 |类型|链接|
 |----|-----|
 |解压缩|[7zip](https://7-zip.org/download.html)|
-|下载|[Flux](https://fluxdown.com/zh/)[Mortix](https://github.com/agalwood/Motrix)|
+|下载|[Flux](https://fluxdown.com/zh/)[Mortix](https://github.com/agalwood/Motrix)[MDM](https://misterdownloadmanager.com/zh-hans/)|
 |网络|[Wireshark](https://www.wireshark.org/)[FlClash](https://github.com/chen08209/FlClash)|
 
 ## 字体
@@ -22,3 +22,5 @@
 2. [经济学入门必读书籍有哪些值得推荐？](https://www.zhihu.com/question/19661829/answer/287109806)
 3. [怎么样才能提升自己的气质？](https://www.zhihu.com/question/582171195)
 4. [一个自律的人有多可怕？](https://www.zhihu.com/question/304924099/answer/1944797396535080694)
+5. [一次弄懂Event Loop（彻底解决此类面试问题）](https://zhuanlan.zhihu.com/p/55511602)
+6. [HCIA/HCIP/HCIE](https://www.bilibili.com/list/watchlater/?spm_id_from=333.1007.view_later.pip&bvid=BV1W8411A7z8&t=5&oid=222860774&vd_source=2a22e2e484a60e488622a08fb531b43c)
