@@ -6,6 +6,7 @@
 |解压缩|[7zip](https://7-zip.org/download.html)|
 |下载|[Flux](https://fluxdown.com/zh/)[Mortix](https://github.com/agalwood/Motrix)[MDM](https://misterdownloadmanager.com/zh-hans/)|
 |网络|[Wireshark](https://www.wireshark.org/)[FlClash](https://github.com/chen08209/FlClash)|
+|阅读器|[PDFgear](https://www.pdfgear.com/zh/)[Foxit Pdf](https://www.foxit.com/pdf-reader/)|
 
 ## 字体
 | 字体| 开发者| 样式 | 字重数 | 语种 |
