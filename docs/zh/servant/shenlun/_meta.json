@@ -13,6 +13,11 @@
     "type": "file",
     "name": "question",
     "label": "常见对策、措施"
+  },
+  {
+    "type": "file",
+    "name": "fragment",
+    "label": "优秀片段"
   }
 ]
 

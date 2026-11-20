@@ -3,7 +3,7 @@
 ## 软件
 |类型|链接|
 |----|-----|
-|解压缩|[7zip](https://7-zip.org/download.html)|
+|解压缩|[7zip](https://7-zip.org/download.html)[NanaZip](https://nanazip.org/)|
 |下载|[Flux](https://fluxdown.com/zh/)[Mortix](https://github.com/agalwood/Motrix)[MDM](https://misterdownloadmanager.com/zh-hans/)|
 |网络|[Wireshark](https://www.wireshark.org/)[FlClash](https://github.com/chen08209/FlClash)|
 |阅读器|[PDFgear](https://www.pdfgear.com/zh/)[Foxit Pdf](https://www.foxit.com/pdf-reader/)|
