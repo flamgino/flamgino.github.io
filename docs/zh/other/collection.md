@@ -7,6 +7,9 @@
 |下载|[Flux](https://fluxdown.com/zh/)[Mortix](https://github.com/agalwood/Motrix)[MDM](https://misterdownloadmanager.com/zh-hans/)|
 |网络|[Wireshark](https://www.wireshark.org/)[FlClash](https://github.com/chen08209/FlClash)|
 |阅读器|[PDFgear](https://www.pdfgear.com/zh/)[Foxit Pdf](https://www.foxit.com/pdf-reader/)|
+|启动器|[Ventoy](https://www.ventoy.net/cn/index.html) [Rufus](https://rufus.ie/zh/)|
+|API调试|[Reqable](https://reqable.com/zh-CN/)|
+|截图|[Pixpin](https://pixpin.cn/)[ShareX](https://www.sharex.net.cn/)|
 
 ## 字体
 | 字体| 开发者| 样式 | 字重数 | 语种 |
