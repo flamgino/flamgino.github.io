@@ -10,6 +10,7 @@
 |启动器|[Ventoy](https://www.ventoy.net/cn/index.html) [Rufus](https://rufus.ie/zh/)|
 |API调试|[Reqable](https://reqable.com/zh-CN/)|
 |截图|[Pixpin](https://pixpin.cn/)[ShareX](https://www.sharex.net.cn/)|
+|音视频|[Foobar2000](https://www.foobar2000.org/)|
 
 ## 字体
 | 字体| 开发者| 样式 | 字重数 | 语种 |
@@ -21,7 +22,6 @@
 |[Fira Code ](https://github.com/tonsky/FiraCode) |  | | 7| 英 |
 
 ## 其它
-
 1. [内心强大是一个怎样的状态？](https://www.zhihu.com/question/653633324/answer/2041816651021153871)
 2. [经济学入门必读书籍有哪些值得推荐？](https://www.zhihu.com/question/19661829/answer/287109806)
 3. [怎么样才能提升自己的气质？](https://www.zhihu.com/question/582171195)
