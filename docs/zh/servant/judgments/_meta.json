@@ -1,0 +1,12 @@
+[
+  {
+    "type": "file",
+    "name": "graph",
+    "label": "图形判断"
+  },
+  {
+    "type": "file",
+    "name": "logic",
+    "label": "逻辑判断"
+  }
+]
