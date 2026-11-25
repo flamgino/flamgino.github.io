@@ -1,0 +1,12 @@
+[
+  {
+    "type": "file",
+    "name": "age",
+    "label": "年龄问题"
+  },
+  {
+    "type": "file",
+    "name": "project",
+    "label": "工程问题"
+  }
+]

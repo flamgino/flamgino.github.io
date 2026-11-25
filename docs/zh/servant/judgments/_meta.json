@@ -6,6 +6,16 @@
   },
   {
     "type": "file",
+    "name": "definition",
+    "label": "定义判断"
+  },
+  {
+    "type": "file",
+    "name": "analogy",
+    "label": "类比推理"
+  },
+  {
+    "type": "file",
     "name": "logic",
     "label": "逻辑判断"
   }

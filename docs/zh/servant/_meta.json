@@ -11,8 +11,18 @@
   },
   {
     "type": "dir-section-header",
+    "name": "maths",
+    "label": "数量关系"
+  },
+  {
+    "type": "dir-section-header",
     "name": "judgments",
     "label": "判断推理"
+  },
+  {
+    "type": "dir-section-header",
+    "name": "analysis",
+    "label": "资料分析"
   },
   {
     "type": "dir-section-header",

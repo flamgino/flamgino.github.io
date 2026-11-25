@@ -1,7 +1,17 @@
 [
   {
     "type": "file",
-    "name": "main-idea",
-    "label": "中心理解题"
+    "name": "logic",
+    "label": "逻辑填空"
+  },
+  {
+    "type": "file",
+    "name": "fragment",
+    "label": "片段阅读"
+  },
+  {
+    "type": "file",
+    "name": "sentence",
+    "label": "语句表达"
   }
 ]
